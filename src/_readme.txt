@@ -4,3 +4,15 @@ hello.ex
 variables.ex
 strings.ex
 comparisons.ex
+decisions.ex
+tuples.ex
+lists.ex
+maps.ex
+patternmatching.ex
+anonymousfunctions.ex
+recursion_stuff.ex
+looping.ex
+enums.ex
+listcomp.ex
+exceptions.ex
+concurrency.ex

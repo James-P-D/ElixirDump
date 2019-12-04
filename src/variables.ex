@@ -26,7 +26,6 @@ defmodule M do
     # output the atom    
     IO.puts "But is it an atom? #{is_atom(some_atom)}"
     # true
-    
-    
+        
   end
 end

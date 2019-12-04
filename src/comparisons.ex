@@ -19,9 +19,8 @@ defmodule M do
     IO.puts "4 <= 5 ? #{4 <= 5}" # Gah! unlike some functional languages, apparentls 'arrows' are just fine in Elixir
     
     age = 18
-    
-    IO.puts  
-    # 16:44 IN VIDEO!
-    https://www.youtube.com/watch?v=pBNOavRoNL0
+    sex = :male                                                     # Remember atom values must be preceeded by colon (:)
+    IO.puts "Conscripted to Army: #{(age >=18) and (sex == :male)}" # Remeber the colon for atom values
+    # also can use 'or', 'not'
   end
 end
