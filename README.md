@@ -1,8 +1,10 @@
 # ElixirDump
 Dumping ground for learning [Elixir](https://elixir-lang.org/)
-Much of it from [Derek Banas' video](https://www.youtube.com/watch?v=pBNOavRoNL0)
 
 ## Basics
+
+Much of it from [Derek Banas' video](https://www.youtube.com/watch?v=pBNOavRoNL0), with various changes as I attempt to learn the language.
+
 
 [hello.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/hello.ex)  
 [variables.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/variables.ex)  
