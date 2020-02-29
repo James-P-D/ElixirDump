@@ -16,7 +16,7 @@ Much of it from [Derek Banas' video](https://www.youtube.com/watch?v=pBNOavRoNL0
 [maps.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/maps.ex)  
 [patternmatching.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/patternmatching.ex)  
 [anonymousfunctions.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/anonymousfunctions.ex)  
-[recursion_stuff.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/recursion_stuff.ex)  
+[recursion.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/recursion.ex)  
 [looping.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/looping.ex)  
 [enums.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/enums.ex)  
 [listcomp.ex](https://github.com/James-P-D/ElixirDump/blob/master/src/listcomp.ex)  
